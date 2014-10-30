@@ -26,4 +26,6 @@ func main() {
 	}()
 	WaitMany(a, b)
 	fmt.Printf("waited %v for WaitMany\n", time.Since(t0))
+	fmt.Printf("waited %v for WaitMany\n", time.Since(t0))
+	fmt.Printf("waited %v for WaitMany\n", time.Since(t0))
 }
