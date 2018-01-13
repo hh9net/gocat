@@ -1,4 +1,4 @@
 gocat
 =====
 
-gocat by wangyi
+gocat
